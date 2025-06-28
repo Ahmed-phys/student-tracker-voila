@@ -3,3 +3,4 @@ ipywidgets
 pandas
 openpyxl
 mysql-connector-python
+import-ipynb
